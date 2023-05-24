@@ -1,0 +1,2 @@
+création d'un site statique pour Mairie à toulouse qui s'appelle actu mairie
+je crée des pages qui naviguent entre eux  avec routes et j'ai cree un forum avec redux 
